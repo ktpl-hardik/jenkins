@@ -1,6 +1,7 @@
 <html>
 <body>
 <h2>Hello World! Welcome to Jenkins Training v2 Code Pipeline...</h2>
-  <p>This is tomcat staging projetc sit back and enjoy</p>
+
+  <h2>This is tomcat staging projetc sit back and enjoy</h2>
 </body>
 </html>
